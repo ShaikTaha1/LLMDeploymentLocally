@@ -1,6 +1,8 @@
 # LLMDeploymentLocally
 Deploying LLM Models in Local Machine
 
+Youtube Link: https://youtu.be/auXQ9QT6_z4
+
 2 Models in the REPO 
 
 1 is Ollama LLM3 Language model
